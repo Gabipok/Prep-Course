@@ -1,0 +1,14 @@
+ * Variables: 
+	Una variable es un espacio donde uno guarda información, contiene un valor.
+
+ * Strings:
+	Un string es una herramienta para representar un texto.
+
+ * Funciones (argumentos, `return`):
+			La función return es una función para retornar un valor o información de una función llamada.
+
+ * Declaraciones `if`
+		Una declaración if es una instrucción que se puede ejecutar o no en función de una condición.
+
+ * Valores booleanos (`true`, `false`):
+			Los valores booleanos se representan como una lógica, en este caso de dos valores TRUE O FALSE que determinan si una información dada es verdadera o falsa.
