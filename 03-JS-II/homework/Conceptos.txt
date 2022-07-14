@@ -1,0 +1,5 @@
+* `for`:
+	Es un ciclo que permite repetir varias instrucciones un cierto número de ocasiones.
+
+* `&&`, `||`, `!`:
+	Los operadores lógicos se usan para combinar dos valores y devolver un resutado verdadero, falso o nulo.
